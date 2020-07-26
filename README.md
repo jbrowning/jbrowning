@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi I'm Jeff 👋
 
-<!--
-**jbrowning/jbrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer, technical leader, and freelancer located in ![Weather Sunny](https://img.shields.io/badge/weather-sunny-yellow) Indianapolis, Indiana, USA.
 
-Here are some ideas to get you started:
+Here's a sampling of my recent projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [Yala](https://yala.social)
+
+<img src="https://raw.githubusercontent.com/jbrowning/jbrowning/master/images/yala.svg" width="70" height="70">
+
+Intelligent social posting and image/video composition
+
+* Elixir / VueJS
+* Slack bot
+* Custom browser screenshot/screencast rendering pipeline
+* Custom ffmpeg-based video rendering pipeline
+
+## Pinecone (RIP 💀)
+
+<img src="https://raw.githubusercontent.com/jbrowning/jbrowning/master/images/pinecone.svg" width="70" height="70">
+
+Simple micro e-commerce
+
+* Ruby on Rails / AngularJS 1.x
+* Chef-based devops automation
