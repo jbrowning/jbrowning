@@ -1,8 +1,8 @@
 # Hi I'm Jeff 👋
 
-I'm a full-stack web developer, technical leader, and freelancer located in Indianapolis, Indiana, USA.
+I'm a full-stack web developer, technical leader, and freelancer located in sunny Carmel, Indiana, USA.
 
-Here's a sampling of my recent projects:
+Here's a sampling of recent projects:
 
 ## [Groove](https://groove.ooo)
 
@@ -11,9 +11,7 @@ Here's a sampling of my recent projects:
 On-demand motivation and accountability for dreamers, doers, movers and shakers
 
 - React Native frontend
-- NodeJS backend
-- Video conferencing
-- Firebase infrastructure
+- NodeJS backend deployed on Firebase
 
 ## Yala (RIP 💀)
 
@@ -22,11 +20,10 @@ On-demand motivation and accountability for dreamers, doers, movers and shakers
 Intelligent social posting and image/video composition
 
 - Elixir / VueJS
-- Slack bot
+- Slack & Facebook chat bot
+- Automated timing of social posts and performance analysis
 - Web-based video and image composer with social posting
-- Custom browser screenshot/screencast rendering pipeline
-- Custom ffmpeg-based video rendering pipeline
-- Stripe-based billing system
+- Custom image and video rendering pipeline
 - AWS infrastructure
 
 ## Pinecone (RIP 💀)
