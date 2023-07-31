@@ -4,4 +4,4 @@ I'm a highly-experienced team manager and software developer specializing in web
 
 Outside of development I enjoy spending time with my family, playing the travel points game, and the occasional trashy TV.
 
-You can learn more about me and my work over at [https://tenoctber.com](https://tenoctober.com)
+You can learn more about me and my work over at [https://jbrowning.org](https://jbrowning.org)
